@@ -30,7 +30,6 @@ def logout_view(request):
 def hello(request):
     return render(request ,'shop/hello.html')
 
-# @login_required
 def product_list(request):
     products = Product.objects.all()
     cart_items = []  # Initialize cart_items as empty list
