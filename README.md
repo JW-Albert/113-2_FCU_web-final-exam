@@ -1,4 +1,4 @@
-# FCU Shop
+# 113-2_FCU_web-final-exam
 
 A Django-based e-commerce website for FCU (Feng Chia University) merchandise.
 
