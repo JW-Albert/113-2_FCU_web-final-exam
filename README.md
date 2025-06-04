@@ -23,8 +23,8 @@ A Django-based e-commerce website for FCU (Feng Chia University) merchandise.
 
 1. Clone the repository:
 ```bash
-git clone [repository-url]
-cd fcu-shop
+git clone https://github.com/JW-Albert/113-2_FCU_web-final-exam.git
+cd 113-2_FCU_web-final-exam
 ```
 
 2. Create and activate a virtual environment:

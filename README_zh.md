@@ -23,8 +23,8 @@
 
 1. 複製專案：
 ```bash
-git clone [repository-url]
-cd fcu-shop
+git clone https://github.com/JW-Albert/113-2_FCU_web-final-exam.git
+cd 113-2_FCU_web-final-exam
 ```
 
 2. 建立並啟動虛擬環境：
@@ -84,7 +84,7 @@ fcu-shop/
 
 ## 開發者
 
-- 逢甲大學資訊工程學系
+- 逢甲大學資訊工程學系 王建葦
 
 ## 授權
 
